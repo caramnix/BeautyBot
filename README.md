@@ -2,4 +2,4 @@
 
 Created with Olivia Ridge for CSE 5524. 
 
-All code is in Matlab. 
+All code is in MATLAB. 
